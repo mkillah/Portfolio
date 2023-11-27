@@ -3,12 +3,12 @@
 This repository showcases a collection of my projects in the field of data analysis. From exploring datasets to deriving meaningful insights, each project demonstrates my skills in handling data and extracting valuable information.
 
 ## Projects:
-### 1. Movies Rating Bias Analysis (Project_RatingRealities)
+### 1. Project_RatingRealities: Movies Rating Bias Analysis
 - **Objective:** Explored patterns and trends to check scoring bias in the movie ratings.
 - **Methodology:** Using visualizations to depict the bias and data analysis to determine the bias level.
 - **Tools:** Python (Pandas, NumPy, Matplotlib, Seaborn), Jupyter Notebooks.
 
-### 2. SPOextractor: Fact-like Structure Extraction with SpaCy
+### 2. Project_FactExtractor: Fact-like Structure Extraction with SpaCy
 
    - **Objective:** Extracts subject-predicate-object (SPO) structures from text corpus to reveal fact-like relationships.
    - **Methodology:** Leverages SpaCy for accurate and context-aware text processing.
